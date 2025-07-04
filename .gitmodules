@@ -1,0 +1,12 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/tanle9t2/Practice-K8S-Backend
+[submodule "react-app"]
+	path = react-app
+	url = https://github.com/tanle9t2/Practice-K8S-Frontend
+[submodule "backend-config"]
+	path = backend-config
+	url = https://github.com/tanle9t2/Practice-K8S-Backend-Config
+[submodule "frontend-config"]
+	path = frontend-config
+	url = https://github.com/tanle9t2/Practice-K8S-Frontend-Config
